@@ -1,7 +1,7 @@
 Package: alsace
 Type: Package
 Title: ALS for the Automatic Chemical Exploration of mixtures
-Version: 1.29.0
+Version: 1.29.1
 Author: Ron Wehrens
 Maintainer: Ron Wehrens <ron.wehrens@gmail.com>
 Description: Alternating Least Squares (or Multivariate Curve
@@ -18,3 +18,4 @@ Depends: R (>= 2.10), ALS, ptw (>= 1.0.6)
 Suggests: lattice, knitr
 VignetteBuilder: knitr
 BiocViews: Metabolomics, Preprocessing
+PackageStatus: Deprecated
